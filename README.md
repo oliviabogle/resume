@@ -1,2 +1,7 @@
-# Portfolio Style Resume
-# Olivia Bogle 
+# Introduction Page 
+
+# Education 
+
+# Current Projects
+
+# contact (student E-mail & Linkedin)
